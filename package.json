@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["SSD1306.py", "github:mcauser/MicroPython_SSD1306/SSD1306.py"],
+    ["bmp.py", "github:mcauser/MicroPython_SSD1306/bmp.py"],
+    ["lcd_gfx.py", "github:mcauser/MicroPython_SSD1306/lcd_gfx.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
